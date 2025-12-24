@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stayhealthy/static/css/main.68ccca79.css",
+    "main.js": "/stayhealthy/static/js/main.3623a8ea.js",
+    "static/js/453.e6771133.chunk.js": "/stayhealthy/static/js/453.e6771133.chunk.js",
+    "index.html": "/stayhealthy/index.html",
+    "main.68ccca79.css.map": "/stayhealthy/static/css/main.68ccca79.css.map",
+    "main.3623a8ea.js.map": "/stayhealthy/static/js/main.3623a8ea.js.map",
+    "453.e6771133.chunk.js.map": "/stayhealthy/static/js/453.e6771133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ccca79.css",
+    "static/js/main.3623a8ea.js"
+  ]
+}
